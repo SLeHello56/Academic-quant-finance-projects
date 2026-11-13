@@ -1,0 +1,6 @@
+contract,days_to_maturity,forward
+M1,30,72.0
+M2,60,72.8
+M3,90,73.6
+M6,180,74.9
+M12,360,76.2
